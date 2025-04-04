@@ -1,0 +1,29 @@
+{
+  "data": {
+    "date": {
+      "created_at": "2025-03-15",
+      "updated_at": "2025-03-15"
+    },
+    "descriptions": {
+      "app_name": "Sales Agent",
+      "app_description": "Sales Agent Integration for the Telex App. It is responsible for querying external APIs to find leads.",
+      "app_logo": "https://sales-agent-3wyf.onrender.com/agent.jpg",
+      "app_url": "https://sales-agent-3wyf.onrender.com/",
+      "background_color": "#fff"
+    },
+    "is_active": true,
+    "integration_type": "interval",
+    "integration_category": "Marketing Automation",
+    "key_features": [
+      "sales agent",
+      "leads",
+      "marketing"
+    ],
+    "author": "sales agent",
+    "settings": [
+    ],
+    "target_url": "https://sales-agent-3wyf.onrender.com/webhook",
+    "tick_url": "https://sales-agent-3wyf.onrender.com/tick",
+    "bot": true
+  }
+}
